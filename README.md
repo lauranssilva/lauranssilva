@@ -1,4 +1,4 @@
-# Hi, I'm Laura Silva! 👋 
+# Hi, I'm Laura Silva! 👋🏾🏳️‍🌈 ✨
 ### 📊 Economics Student | Data &; Business Analytics 
 Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de Ciências Econômicas no Centro Universitário Senac, em transição para as áreas de **Análise de Dados, Business Intelligence e Gestão de Projetos**. 
 Utilizo métodos quantitativos, análise de dados e ferramentas de automação para solucionar problemas operacionais, financeiros e estratégicos de negócios.
